@@ -1,0 +1,21 @@
+.cke-additem {
+	display:none;
+	color: black;
+	line-height: 2em;
+	width: auto;
+	height: auto;
+	padding: 10px;
+	background-color: #f5f5f5;
+}
+.cke-additem img {
+	cursor: pointer;
+}
+.cke-additem__categories {
+	margin: 1px;
+	font-size: 20px;
+  font-weight: bold;
+}
+.cke-additem__sprite {
+  height: 32px;
+  width: 32px;
+}
